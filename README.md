@@ -1,3 +1,3 @@
-# SpecParam Organization Github
+# .github
 
-Base .github repository for the specparam organization.
+Organization level .github folder for specparam.
